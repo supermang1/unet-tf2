@@ -1,6 +1,6 @@
 ## Unet：U-Net: Convolutional Networks for Biomedical Image Segmentation目标检测模型在Tensorflow2当中的实现
 ---
-
+课程中的文件在net文件夹里
 ### 目录
 1. [仓库更新 Top News](#仓库更新)
 2. [相关仓库 Related code](#相关仓库)
